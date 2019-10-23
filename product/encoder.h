@@ -1,6 +1,7 @@
 //
 // Created by RTinchev on 10/12/2019.
 //
+
 #ifndef ENCODER_H
 #define ENCODER_H
 

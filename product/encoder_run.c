@@ -1,3 +1,7 @@
+//
+// Created by RTinchev on 10/22/2019.
+//
+
 #include <stdio.h>
 #include <string.h>
 #include "encoder.h"

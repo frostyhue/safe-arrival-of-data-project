@@ -1,8 +1,9 @@
 //
-// Created by blood on 10/12/2019.
+// Created by RTinchev on 10/12/2019.
 //
 #include "encoder.h"
 #include <stdio.h>
+#define MAX_8_BIT_INT 256
 
 //Pairs the 4 bits with 4 additional Parity bits into a whole byte, sored in an array
 void BytePairing(int PairedByte[], int d1, int d2, int d3, int d4){
